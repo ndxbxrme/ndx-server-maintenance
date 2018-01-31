@@ -1,6 +1,6 @@
 {
   "name": "ndx-server-maintenance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "put server into maintenance mode for ndx-framework",
   "main": "build/index.js",
   "scripts": {
